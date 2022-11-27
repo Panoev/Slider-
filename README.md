@@ -1,3 +1,3 @@
 # Slider
 This slider might be helpful for creating catalogs. 
-Download it to your computer and open an index.html file to see the resul
+Check it out in codepen https://codepen.io/Fraugen213/pen/ZERRrdd
